@@ -4,7 +4,7 @@
 
 <br>
 
-![milva-bird](https://user-images.githubusercontent.com/13048645/141461853-dbacad32-2150-4276-a848-45b81f2eeeb2.jpg)
+![milva-bird](https://miro.medium.com/v2/resize:fit:1024/1*wPKZnE6XTw-wtH2k-KARPg.png)
 
 - [Boilerplate Features](#Boilerplate-Features)	
 - [Structure](#Structure)
