@@ -4,8 +4,7 @@
 
 <br>
 
-![milva-bird](https://miro.medium.com/v2/resize:fit:1024/1*wPKZnE6XTw-wtH2k-KARPg.png){ width=50% }
-
+![milva-bird](https://puwanai.com/images/og_20220415171148_63902.png)
 
 - [Boilerplate Features](#Boilerplate-Features)	
 - [Structure](#Structure)
