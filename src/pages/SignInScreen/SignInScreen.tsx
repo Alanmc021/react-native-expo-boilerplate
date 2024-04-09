@@ -4,7 +4,7 @@ import {MyButton} from '../../components/MyButton';
 import {MyTextInput} from '../../components/MyTextInput';
 import {useAuth} from '../../contexts/Auth';
 
-import logo from '../../assets/logo.png';
+//import logo from '../../assets/logo.png';
 
 import {Container} from './styles';
 import {ThemeContext, ThemeType} from '../../theme/Theme';
@@ -21,11 +21,11 @@ export function SignInScreen() {
     <Container>
       <Switch value={darkModeIsEnabled} onValueChange={toggleTheme} />
 
-      <Image
+      {/* <Image
         resizeMode="contain"
         source={logo}
         style={{width: 200, height: 200}}
-      />
+      /> */}
       <MyTextInput placeholder="e-mail" value={email} onChangeText={setEmail} />
       <MyTextInput
         placeholder="senha"

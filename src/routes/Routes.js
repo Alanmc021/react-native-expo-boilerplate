@@ -11,7 +11,7 @@ export function Router() {
   const { authData, isLoading } = useAuth();
   const [splash, setSplash] = useState(isLoading)
   useEffect(() => {
-    setTimeout(() => {       
+    setTimeout(() => {         
           setSplash(false)        
     }, 2000);
   }, [])

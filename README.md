@@ -1,4 +1,4 @@
-<h1 align="center">Expo Boilerplate</h1>
+<h1 align="center">GREENIUM V2 APP MOTORISTA</h1>
 
 <h4 align="center">Architectures, methods and much more that We use while developing mobile applications</h4>
 
