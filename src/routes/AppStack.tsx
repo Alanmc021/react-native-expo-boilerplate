@@ -1,11 +1,7 @@
 import React from 'react';
-
 import {createNativeStackNavigator} from '@react-navigation/native-stack';
-
-import {HomeScreen} from '../pages/HomeScreen';
-import {SettingScreen} from '../pages/SettingScreen';
-
-// interface App
+import {HomeScreen} from '../pages/home/HomeScreen';
+import {SettingScreen} from '../pages/setting/SettingScreen';
 
 export interface AppParamList {
   Home: undefined;

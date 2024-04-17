@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import { View, Text } from 'react-native';
 import { NavigationContainer } from '@react-navigation/native';
-import { SplasScreen } from '../pages/SplashScreen';
+import { SplasScreen } from '../pages/splashScreen';
 
 import { AppStack } from './AppStack';
 import { AuthStack } from './AuthStack';
